@@ -21,3 +21,4 @@ if __name__ == "__main__":
         arrival_time = list(map(int, input().rstrip().split()))
 
         print(solve(min_students, arrival_time))
+        

@@ -1,6 +1,6 @@
 # Multilanguage README Choose your language
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PasqualiRafael/HackerRank/blob/master/README.en.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/PasqualiRafael/HackerRank/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PasqualiRafael/HackerRank/blob/master/README.en.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/PasqualiRafael/HackerRank)
 
 <h1 align="center">
   💻<br>Practice coding skills, prepare for interviews.
